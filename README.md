@@ -3,10 +3,13 @@
 connect to firebase/firestore using ["react-redux-firebase"](https://react-redux-firebase.com/) version 3 syntax
 
 ### Technology:
- - React, Redux
- - Materialize-css |  
- - Firebase  
-
+ - React, Redux  
+ - Firebase > Cloud Firestore
+   - Cloud Firestore Triggers
+   - Cloudn Functions
+ - "materialize-css"
+ - node-sass
+   
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
