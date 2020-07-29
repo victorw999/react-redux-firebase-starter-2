@@ -1,4 +1,4 @@
-# react-redux-firebase-starter
+# react-redux-firebase-starter-2
 
 connect to firebase/firestore using ["react-redux-firebase"](https://react-redux-firebase.com/) version 3 syntax
 
