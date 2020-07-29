@@ -5,8 +5,8 @@ connect to firebase/firestore using ["react-redux-firebase"](https://react-redux
 ### Technology:
  - React, Redux  
  - Firebase > Cloud Firestore
+   - Cloud functions 
    - Cloud Firestore Triggers
-   - Cloudn Functions
  - "materialize-css"
  - node-sass
    
