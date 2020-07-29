@@ -1,0 +1,17 @@
+.dashboard {
+  &.container {
+    padding: 1.5rem;
+    // background-color: white;
+
+    //
+    // MATERIALIZE-CSS
+    // syntax
+    // background: color("teal", "lighten-1");
+
+    @media #{$small-and-down} {
+      padding: 0px !important;
+      margin: 0px;
+      width: 100%;
+    }
+  }
+} //dashboard
